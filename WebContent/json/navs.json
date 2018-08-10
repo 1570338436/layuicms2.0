@@ -1,0 +1,97 @@
+{
+	"product": [
+		{
+			"title": "商品列表",
+			"icon": "icon-text",
+			"href": "workbench/product/product_list.jsp",
+			"spread": false
+		},
+		{
+			"title": "商品详情",
+			"icon": "&#xe634;",
+			"href": "workbench/product/product_detail.jsp",
+			"spread": false
+		},
+		{
+			
+			"title": "商品回收站",
+			"icon": "&#xe634;",
+			"href": "workbench/product/product_recycle.jsp",
+			"spread": false
+		}
+	],
+	"order": [
+		{
+			"title": "订单列表",
+			"icon": "&#xe612;",
+			"href": "workbench/order/order_list.jsp",
+			"spread": false
+		},
+		{
+			"title": "订单详情",
+			"icon": "icon-vip",
+			"href": "workbench/order/order_detail.jsp",
+			"spread": false
+		}
+	],
+	"vip": [
+		{
+			"title": "会员列表",
+			"icon": "&#xe631;",
+			"href": "workbench/user/user_list.jsp",
+			"spread": false
+		},{
+			"title": "添加会员(详情)",
+			"icon": "icon-log",
+			"href": "workbench/user/user_detail.jsp",
+			"spread": false
+		},{
+			"title": "会员等级",
+			"icon": "&#xe64c;",
+			"href": "workbench/user/user_rank.jsp",
+			"spread": false
+		},{
+			"title": "会员资金管理",
+			"icon": "&#xe857;",
+			"href": "workbench/user/user_funding.jsp",
+			"spread": false
+		}
+	],
+	"site": [
+		{
+			"title": "站点基础设置",
+			"icon": "icon-mokuai",
+			"href": "workbench/site/site.jsp",
+			"spread": false
+		}
+	],
+		"expresspay": [
+		{
+			"title": "配送方式",
+			"icon": "icon-mokuai",
+			"href": "workbench/expresspay/express_list.jsp",
+			"spread": false
+		},{
+			"title": "支付方式",
+			"icon": "icon-mokuai",
+			"href": "workbench/expresspay/pay_list.jsp",
+			"spread": false
+		}
+	],
+		"chart": [
+		{
+			"title": "流量统计",
+			"icon": "icon-mokuai",
+			"href": "workbench/chart/hits_volume.jsp",
+			"spread": false
+		},{
+			"title": "销售额统计",
+			"icon": "icon-mokuai",
+			"href": "workbench/chart/sales_volume.jsp",
+			"spread": false
+		}
+	]
+	
+}
+
+
